@@ -1,0 +1,6 @@
+2025-04-09 17:01:25,908 - ERROR - Error computing answer score: 'dict' object has no attribute 'strip'
+2025-04-09 17:01:25,908 - ERROR - Error computing answer score: 'dict' object has no attribute 'strip'
+2025-04-09 17:02:23,889 - ERROR - Error computing answer score: 'dict' object has no attribute 'strip'
+2025-04-09 17:02:23,889 - ERROR - Error computing answer score: 'dict' object has no attribute 'strip'
+2025-04-09 17:03:44,856 - ERROR - Error computing answer score: 'dict' object has no attribute 'strip'
+2025-04-09 17:03:44,856 - ERROR - Error computing answer score: 'dict' object has no attribute 'strip'

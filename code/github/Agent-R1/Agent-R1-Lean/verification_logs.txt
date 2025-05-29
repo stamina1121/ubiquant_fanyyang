@@ -1,0 +1,8 @@
+2025-04-13 16:10:43,809 - ERROR - Verification timed out after 60s
+2025-04-13 16:11:36,403 - ERROR - Error computing answer score: 'dict' object has no attribute 'strip'
+2025-04-13 16:11:36,404 - ERROR - Error computing answer score: 'dict' object has no attribute 'strip'
+2025-04-15 01:20:40,149 - ERROR - Error computing answer score: 'dict' object has no attribute 'strip'
+2025-04-15 01:20:40,149 - ERROR - Error computing answer score: 'dict' object has no attribute 'strip'
+2025-04-16 13:21:45,494 - ERROR - Verification timed out after 60s
+2025-04-16 13:23:06,275 - ERROR - Verification timed out after 60s
+2025-04-16 14:12:26,372 - ERROR - Error extracting solution: expected string or bytes-like object

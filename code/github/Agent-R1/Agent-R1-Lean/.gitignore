@@ -1,0 +1,14 @@
+outputs/
+wandb/
+__pycache__/
+data/
+ignore/
+checkpoints/
+.history/
+envs/
+temp/
+log/
+nohup.out
+verification_log.jsonl
+memory_monitor.log
+logs/
